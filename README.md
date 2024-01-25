@@ -25,11 +25,14 @@ Bbutton to reset the fields to their initial state.
 This GUI test is written in Java Swing and requires a Java Runtime Environment (JRE) to execute.
 A Java development environment such as IntelliJ IDEA is recommended for compiling and running the code.
 
-How to Run
+## How to Run
 Clone the repository to your local machine: git clone https://github.com/rvdxk/gui-test-swing.git
 Compile the Main.java file.
 Run the compiled program to launch the GUI.
 
 ## Screenshots
-
 ![Screenshot (63)](https://github.com/rvdxk/gui-test-swing/assets/136000622/4f993026-d6f8-48e4-bd0d-34f802d54d60)
+
+## Feedback
+If you encounter any issues or have suggestions for improvement, feel free to open an issue in the GitHub repository. Your feedback is valuable!
+Enjoy testing the Java Swing GUI with name and surname inputs!
