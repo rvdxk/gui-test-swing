@@ -26,9 +26,9 @@ This GUI test is written in Java Swing and requires a Java Runtime Environment (
 A Java development environment such as IntelliJ IDEA is recommended for compiling and running the code.
 
 ## How to Run
-Clone the repository to your local machine: git clone https://github.com/rvdxk/gui-test-swing.git
-Compile the Main.java file.
-Run the compiled program to launch the GUI.
+Clone the repository to your local machine: git clone https://github.com/rvdxk/gui-test-swing.git<br>
+Compile the Main.java file.<br>
+Run the compiled program to launch the GUI.<br>
 
 ## Screenshots
 ![Screenshot (63)](https://github.com/rvdxk/gui-test-swing/assets/136000622/4f993026-d6f8-48e4-bd0d-34f802d54d60)
